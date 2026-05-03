@@ -6,7 +6,7 @@
 
 - 更新間隔を&thinsp;1&thinsp;〜&thinsp;60&thinsp;秒でスライダーで設定
 
-<img height=256 src="">ここに画像を挿入 [TODO]
+<img height=384 src="https://github.com/user-attachments/assets/7142cd3f-8f01-40f3-8c92-2e52860cc6a1" />
 
 <br>
 
